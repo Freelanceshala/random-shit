@@ -1,0 +1,322 @@
+do not - Want To
+use&nbsp;=) - Hire&nbsp;=)
+without - Freelancer
+they<br>even - For<br>Quality
+better. - Work?
+Black<br>and<br>white.<br>Only - Our<br>Goal<br>is to<br>Provide
+typography. - Good
+Minimalist, - Quality
+simple, - Courses 
+clear. - & Help
+it's just a&nbsp;stylish text - young&nbsp;freelancers
+for - May
+a<br>good - Kick<br>Start
+rhythm - Freelancing
+clap - Journey
+clap&nbsp;=) - Journey&nbsp;=)
+Stylish - With
+Unique<br>Creative<br>Easy<br>to<br>use, - Unique<br>Creative<br>Easy<br>To<br>Use
+modular - Providing
+system - You 
+Yes!<br>includes<br>a&nbsp;generator - With<br>Amazing<br>Community&nbsp;People,
+everything - Events
+can - Experts
+change - and list
+26-62
+
+
+		<div id="scene-26" class="sven-slide" data-freeze-time="0.08">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx26-in">
+					or
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-27" class="sven-slide">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx27">
+					Want<br>To
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-28" class="sven-slide" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx28-in">
+					Hire&nbsp;=)
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-29" class="sven-slide" data-freeze-time="0.08">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx29-in">
+					Freelancer
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-30" class="sven-slide">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx30">
+					For<br>Quality
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-31" class="sven-slide" data-freeze-time="0.08">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx31-in">
+					 Work?
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-32" class="sven-slide">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx32">
+					Our<br>Goal<br>is to<br>Provide
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-33" class="sven-slide" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx33-in">
+					Good
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-34" class="sven-slide" data-freeze-time="0.08">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx34-in">
+					Quality
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-35" class="sven-slide">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx35">
+					Courses
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-36" class="sven-slide" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx36-in">
+					and
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-37" class="sven-slide bg-white">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx37-in" data-sout="animation: stomp-fx37-out">
+					Help New Young Freelancers
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-38" class="sven-slide" data-freeze-time="0.12">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx38-in">
+					To
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-39" class="sven-slide">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx39">
+					Kick<br>Start
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-40" class="sven-slide bg-white">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx40">
+					Freelancing
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-41" class="sven-slide">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx41-in">
+					Journey
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-42" class="sven-slide bg-white">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx42-in">
+					Journey&nbsp;=)
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-43" class="sven-slide" data-freeze-time="0.08">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx26-in">
+					With
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-44" class="sven-slide">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx44">
+					Unique<br>Creative<br>Easy<br>To<br>Use,
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-45" class="sven-slide" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx45-in">
+					Providing
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-46" class="sven-slide" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx46-in">
+					You
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-47" class="sven-slide bg-white">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx47">
+					With<br>Amazing<br>People,
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-48" class="sven-slide" data-freeze-time="0.12">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx48-in">
+					Events,
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-49" class="sven-slide">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx49">
+					Experts,
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-50" class="sven-slide">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx50-in">
+					Lists,
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-51" class="sven-slide bg-white" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main font4x" data-sin="animation: stomp-fx51-in">
+					Goes-On
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-52" class="sven-slide">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx52-in">
+					On
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-53" class="sven-slide">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx53">
+					and On!
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-54" class="sven-slide" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx54-in">
+					and
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-55" class="sven-slide bg-white" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx55-in">
+					Boom!
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-56" class="sven-slide" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx56-in">
+					You
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-57" class="sven-slide" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx57-in">
+					Have
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-58" class="sven-slide" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx58-in">
+					a
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-59" class="sven-slide" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx59-in">
+					Cool
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-60" class="sven-slide bg-white" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main font2x" data-sin="animation: stomp-fx60-in">
+					Platform!
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-61" class="sven-slide bg-white" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx61-in">
+					Sit
+				</h1>
+			</div>
+		</div>
+
+		<div id="scene-62" class="sven-slide" data-freeze-time="0.04">
+			<div class="content-container">
+				<h1 class="lt-main" data-sin="animation: stomp-fx62-in">
+					Tight!
+				</h1>
+			</div>
+		</div>

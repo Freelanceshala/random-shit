@@ -1,13 +1,12 @@
+
 <!DOCTYPE html>
 <html lang="en">
-
-
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
-	<meta name="description" content="Freelanceshala is a company">
-	
+	<meta name="description" content="Stomp is a typographic intro HTML template for your product coming soon page. This demo uses local html5 video as a backdrop for the intro and a countdown to the launch. Just good rhythm and typography.">
+	<meta name="author" content="SvenCreations">
 
 	<!-- Touch icons for android and iOS (Bookmark icons) -->
 	<link rel="shortcut icon" sizes="196x196" href="images/icons/icon-196x196.png">
@@ -17,20 +16,20 @@
 	<link rel="apple-touch-icon" sizes="152x152" href="images/icons/touch-icon-ipad-retina.png">
 
 	<!-- Schema.org markup for Google+ and facebook -->
-	<meta property="og:title" content="Coming soon">
+	<meta property="og:title" content="Coming Soon Template | Countdown | HTML5 Video Background | Stomp - Typographic Intro">
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="index-local-countdown.html"/>
-	<meta property="og:image" content="images/local-cd-twitter.png">
-	<meta property="og:description" content="Freelancer">
+	<meta property="og:url" content="http://svencreations.com/stomp/index-local-countdown.html"/>
+	<meta property="og:image" content="http://svencreations.com/stomp/images/local-cd-twitter.png">
+	<meta property="og:description" content="Stomp is a typographic intro HTML template for your product coming soon page. This demo uses local html5 video as a backdrop for the intro and a countdown to the launch. Just good rhythm and typography.">
 
 	<!-- Schema.org markup for twitter cards(summary_large_image) -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:site" content="@freelanceshala.in">
-	<meta name="twitter:title" content="Coming Soon">
-	<meta name="twitter:description" content="Freelanceshala">
-	<meta name="twitter:image" content="images/local-cd-twitter.png">
+	<meta name="twitter:site" content="@svencreations">
+	<meta name="twitter:title" content="Coming Soon Template | Countdown | HTML5 Video Background | Stomp - Typographic Intro">
+	<meta name="twitter:description" content="Stomp is a typographic intro HTML template for your product coming soon page. This demo uses local html5 video as a backdrop for the intro and a countdown to the launch. Just good rhythm and typography.">
+	<meta name="twitter:image" content="http://svencreations.com/stomp/images/local-cd-twitter.png">
 
-	<title>Freelanceshala | Coming Soon</title>
+	<title>Coming Soon Template | Countdown | HTML5 Video Background | Stomp - Typographic Intro</title>
 	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<link href="css/combined/sven-essentials.min.css" rel="stylesheet" type="text/css">
@@ -47,12 +46,12 @@
 	<!-- =================================================================
 	Stomp - Typographic Intro Scenes
 	================================================================== -->
-	<div id="stomp-intro" class="sven-container" data-enable-sound="music/stomp1.mp3">
+	<div id="stomp-intro" class="sven-container" data-enable-sound="music/stomp.mp3">
 
 		<div id="scene-1" class="sven-slide" data-scene-video="video/Particles.mp4" data-video-type="html5" data-video-loop="true" data-auto-stop-video="true">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx1-in" data-sout="animation: stomp-fx1-out">
-					Hello & Welcome To
+					Hello and welcome to
 				</h1>
 			</div>
 		</div>
@@ -60,7 +59,7 @@
 		<div id="scene-2" class="sven-slide bg-white">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx2-in" data-sout="animation: stomp-fx2-out">
-				Freelanceshala
+					Stomp
 				</h1>
 			</div>
 		</div>
@@ -68,7 +67,7 @@
 		<div id="scene-3" class="sven-slide" data-freeze-time="0.12">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx3-in">
-				Freelanceshala
+					Stomp
 				</h1>
 			</div>
 		</div>
@@ -76,7 +75,7 @@
 		<div id="scene-4" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx4">
-					is<br>an
+					is<br>a
 				</h1>
 			</div>
 		</div>
@@ -84,7 +83,7 @@
 		<div id="scene-5" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx5-in" data-sout="animation: stomp-fx5-out">
-					Awesome
+					typographic
 				</h1>
 			</div>
 		</div>
@@ -92,7 +91,7 @@
 		<div id="scene-6" class="sven-slide bg-white">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx6-in">
-					Platform
+					intro
 				</h1>
 			</div>
 		</div>
@@ -100,7 +99,7 @@
 		<div id="scene-7" class="sven-slide bg-white">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx7" >
-					For<br>Your<br>Great
+					for<br>your<br>great
 				</h1>
 			</div>
 		</div>
@@ -108,7 +107,7 @@
 		<div id="scene-8" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx5-in" data-sout="animation: stomp-fx8-out">
-					Creativity
+					product
 				</h1>
 			</div>
 		</div>
@@ -116,7 +115,7 @@
 		<div id="scene-9" class="sven-slide" data-freeze-time="0.24">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx9-in">
-					Want To Grab a Skill?
+					Now just look how cool
 				</h1>
 			</div>
 		</div>
@@ -124,7 +123,7 @@
 		<div id="scene-10" class="sven-slide bg-white">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx10-in" data-sout="animation: stomp-fx10-out">
-					or
+					these
 				</h1>
 			</div>
 		</div>
@@ -132,7 +131,7 @@
 		<div id="scene-11" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx11-in" data-sout="animation: stomp-fx11-out">
-					Start
+					words
 				</h1>
 			</div>
 		</div>
@@ -140,7 +139,7 @@
 		<div id="scene-12" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx12">
-					Your<br>Freelance<br>Journey
+					fall<br>into<br>the
 				</h1>
 			</div>
 		</div>
@@ -148,7 +147,7 @@
 		<div id="scene-13" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx13-in" data-sout="animation: stomp-fx13-out">
-					Journey?
+					rhythm
 				</h1>
 			</div>
 		</div>
@@ -156,7 +155,7 @@
 		<div id="scene-14" class="sven-slide bg-white">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx14-in" data-sout="animation: stomp-fx14-out">
-					Amazing..
+					amazing..
 				</h1>
 			</div>
 		</div>
@@ -164,7 +163,7 @@
 		<div id="scene-15" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx4">
-					So<br>Let's
+					So<br>let's
 				</h1>
 			</div>
 		</div>
@@ -172,7 +171,7 @@
 		<div id="scene-16" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx16-in" data-sout="animation: stomp-fx16-out">
-					Begin
+					begin
 				</h1>
 			</div>
 		</div>
@@ -188,7 +187,7 @@
 		<div id="scene-19" class="sven-slide" data-freeze-time="0.08">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx19-in">
-					Freelanceshala
+					You
 				</h1>
 			</div>
 		</div>
@@ -196,7 +195,7 @@
 		<div id="scene-20" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx20">
-					is<br>Great<br>Place
+					can<br>use<br>images
 				</h1>
 			</div>
 		</div>
@@ -204,7 +203,7 @@
 		<div id="scene-21" class="sven-slide" data-freeze-time="0.08">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx21-in">
-					To Start...
+					like...
 				</h1>
 			</div>
 		</div>
@@ -212,7 +211,7 @@
 		<div id="scene-22" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx22">
-					Journey,<br>Offering
+					stop,<br>text
 				</h1>
 			</div>
 		</div>
@@ -220,7 +219,7 @@
 		<div id="scene-23" class="sven-slide" data-freeze-time="0.08">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx23-in">
-					You an Oppourtunity
+					is
 				</h1>
 			</div>
 		</div>
@@ -228,15 +227,15 @@
 		<div id="scene-24" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx24">
-					Where<br>Anyone<br>Can<br>Acquire<br>...
+					not<br>too<br>fast?<br>Anyway<br>use
 				</h1>
 			</div>
 		</div>
 
-		<div id="scene-25" class="sven-slide" data-trans="none" data-pursue-video="yes" data-scene-image="" data-freeze-time="0.04">
+		<div id="scene-25" class="sven-slide" data-trans="none" data-pursue-video="yes" data-scene-image="images/local/scene-25.jpg" data-freeze-time="0.04">
 			<div class="content-container">
-				<h1 class="lt-main font2x" data-sin="animation: stomp-fx25-in">
-					Skills!
+				<h1 class="lt-main font2x tint-bl" data-sin="animation: stomp-fx25-in">
+					images
 				</h1>
 			</div>
 		</div>
@@ -252,7 +251,7 @@
 		<div id="scene-27" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx27">
-					Want<br>To
+					do<br>not
 				</h1>
 			</div>
 		</div>
@@ -260,7 +259,7 @@
 		<div id="scene-28" class="sven-slide" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx28-in">
-					Hire&nbsp;=)
+					use&nbsp;=)
 				</h1>
 			</div>
 		</div>
@@ -268,7 +267,7 @@
 		<div id="scene-29" class="sven-slide" data-freeze-time="0.08">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx29-in">
-					Freelancer
+					without
 				</h1>
 			</div>
 		</div>
@@ -276,7 +275,7 @@
 		<div id="scene-30" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx30">
-					For<br>Quality
+					they<br>even
 				</h1>
 			</div>
 		</div>
@@ -284,7 +283,7 @@
 		<div id="scene-31" class="sven-slide" data-freeze-time="0.08">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx31-in">
-					Work.
+					better.
 				</h1>
 			</div>
 		</div>
@@ -292,7 +291,7 @@
 		<div id="scene-32" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx32">
-					Our<br>Goal<br>is to<br>Provide
+					Black<br>and<br>white.<br>Only
 				</h1>
 			</div>
 		</div>
@@ -300,7 +299,7 @@
 		<div id="scene-33" class="sven-slide" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx33-in">
-					Excellent..
+					typography.
 				</h1>
 			</div>
 		</div>
@@ -308,7 +307,7 @@
 		<div id="scene-34" class="sven-slide" data-freeze-time="0.08">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx34-in">
-					Quality
+					Minimalist,
 				</h1>
 			</div>
 		</div>
@@ -316,7 +315,7 @@
 		<div id="scene-35" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx35">
-					Courses
+					simple,
 				</h1>
 			</div>
 		</div>
@@ -324,7 +323,7 @@
 		<div id="scene-36" class="sven-slide" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx36-in">
-					and
+					clear.
 				</h1>
 			</div>
 		</div>
@@ -332,7 +331,7 @@
 		<div id="scene-37" class="sven-slide bg-white">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx37-in" data-sout="animation: stomp-fx37-out">
-					Help New Young Freelancers
+					it's just a&nbsp;stylish text
 				</h1>
 			</div>
 		</div>
@@ -340,7 +339,7 @@
 		<div id="scene-38" class="sven-slide" data-freeze-time="0.12">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx38-in">
-					To
+					for
 				</h1>
 			</div>
 		</div>
@@ -348,7 +347,7 @@
 		<div id="scene-39" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx39">
-					Kick<br>Start
+					a<br>good
 				</h1>
 			</div>
 		</div>
@@ -356,7 +355,7 @@
 		<div id="scene-40" class="sven-slide bg-white">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx40">
-					Freelancing
+					rhythm
 				</h1>
 			</div>
 		</div>
@@ -364,7 +363,7 @@
 		<div id="scene-41" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx41-in">
-					Journey
+					clap
 				</h1>
 			</div>
 		</div>
@@ -372,7 +371,7 @@
 		<div id="scene-42" class="sven-slide bg-white">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx42-in">
-					Journey&nbsp;=)
+					clap&nbsp;=)
 				</h1>
 			</div>
 		</div>
@@ -380,7 +379,7 @@
 		<div id="scene-43" class="sven-slide" data-freeze-time="0.08">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx26-in">
-					With
+					Stylish
 				</h1>
 			</div>
 		</div>
@@ -388,7 +387,7 @@
 		<div id="scene-44" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx44">
-					Unique<br>Creative<br>Easy<br>To<br>Use,
+					Unique<br>Creative<br>Easy<br>to<br>use,
 				</h1>
 			</div>
 		</div>
@@ -396,7 +395,7 @@
 		<div id="scene-45" class="sven-slide" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx45-in">
-					Providing
+					modular
 				</h1>
 			</div>
 		</div>
@@ -404,7 +403,7 @@
 		<div id="scene-46" class="sven-slide" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx46-in">
-					You
+					system
 				</h1>
 			</div>
 		</div>
@@ -412,7 +411,7 @@
 		<div id="scene-47" class="sven-slide bg-white">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx47">
-					With<br>Many&nbsp;Amazing<br>People,
+					Yes!<br>includes<br>a&nbsp;generator
 				</h1>
 			</div>
 		</div>
@@ -420,7 +419,7 @@
 		<div id="scene-48" class="sven-slide" data-freeze-time="0.12">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx48-in">
-					Events,
+					everything
 				</h1>
 			</div>
 		</div>
@@ -428,7 +427,7 @@
 		<div id="scene-49" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx49">
-					Experts,
+					can
 				</h1>
 			</div>
 		</div>
@@ -436,7 +435,7 @@
 		<div id="scene-50" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx50-in">
-					Lists,
+					change
 				</h1>
 			</div>
 		</div>
@@ -444,7 +443,7 @@
 		<div id="scene-51" class="sven-slide bg-white" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main font4x" data-sin="animation: stomp-fx51-in">
-					Goes&nbsp;On
+					Flexible
 				</h1>
 			</div>
 		</div>
@@ -452,7 +451,7 @@
 		<div id="scene-52" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx52-in">
-					On
+					replace
 				</h1>
 			</div>
 		</div>
@@ -460,7 +459,7 @@
 		<div id="scene-53" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx53">
-					and&nbsp;On!
+					text
 				</h1>
 			</div>
 		</div>
@@ -492,7 +491,7 @@
 		<div id="scene-57" class="sven-slide" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx57-in">
-					Have
+					have
 				</h1>
 			</div>
 		</div>
@@ -508,7 +507,7 @@
 		<div id="scene-59" class="sven-slide" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx59-in">
-					All in One
+					cool
 				</h1>
 			</div>
 		</div>
@@ -516,7 +515,7 @@
 		<div id="scene-60" class="sven-slide bg-white" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx60-in">
-					Platform!
+					intro!
 				</h1>
 			</div>
 		</div>
@@ -540,7 +539,7 @@
 		<div id="scene-63" class="sven-slide bg-white" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx63-in">
-					Coming
+					coming
 				</h1>
 			</div>
 		</div>
@@ -548,7 +547,7 @@
 		<div id="scene-64" class="sven-slide" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx61-in">
-					Soon
+					soon
 				</h1>
 			</div>
 		</div>
@@ -556,7 +555,7 @@
 		<div id="scene-65" class="sven-slide bg-white" data-freeze-time="0.04">
 			<div class="content-container">
 				<h1 class="lt-main" data-sin="animation: stomp-fx62-in">
-					On
+					on
 				</h1>
 			</div>
 		</div>
@@ -564,7 +563,7 @@
 		<div id="scene-66" class="sven-slide">
 			<div class="content-container">
 				<h1 class="lt-main font2x" data-sin="animation: stomp-fx66-in">
-					<img class="tf-logo" src="images/logo.png" alt="Freelanceshala"/>
+					<img class="tf-logo" src="images/themeforest-dark-background.png" alt="themeforest"/>
 				</h1>
 			</div>
 		</div>
@@ -586,26 +585,18 @@
 						<div id="ambient-bg"> <!-- ## Start Ambient BG (Particles Animations) ## -->
 							<canvas id="bits"></canvas>
 						</div><!-- ## End Ambient BG (Particles Animations) ## -->
-						<style>
-							.sc-logo{position:relative;padding:60px 10% 0}
-						</style>
 
-						<div class="sc-logo"> <!-- ## Start Logo part ## -->
-							<img src="./images/logo.png" alt="Freelanceshala" width="35%"/> <!-- width: 464 , height:60-->
+						<div class="st-logo"> <!-- ## Start Logo part ## -->
+							<img src="images/local/stomp-logo.png" alt="Stomp" height="84"/>
 						</div> <!-- ## End Logo part ## -->
 
 						<div class="st-desc"> <!-- ## Start Coming Soon Content ## -->
 							<!-- <h2 class="fw600">STOMP - THE INTRO</h2> -->
 							<h2 class="fw600">Launching in<br>
-							<span class="fw600"><p id="days"></p>
-								<p id="hours"></p>
-								<p id="mins"></p>
-								<p id="secs"></p></span></h2>
-								<style>p{display: inline;}</style>
-							<p>Hello and Welcome To Freelanceshala. Freelanceshala is an Awesome Platform For Your Great Creativity</p>
-							<br>
+							<span class="st-countdown fw600"></span></h2>
+							<p>Stomp is a typographic intro for your product. Just good rhythm and typography. In the basic version, it contains exactly 100 words.</p>
 							<p>
-								<a id="mi-btn" href="#contact" class="st-btn btn-bordered">Contact Us</a>
+								<a id="mi-btn" href="#main-content" class="st-btn btn-bordered">More Information</a>
 								<a class="st-btn btn-fill" data-toggle="modal" data-target="#subscribe-page">Subscribe Now!</a>
 							</p>
 						</div> <!-- ## End Coming Soon Content ## -->
@@ -613,10 +604,10 @@
 						<div class="st-footer"> <!-- ## Start Footer ## -->
 							<ul class="social-icons">
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="https://twitter.com/Freelanceshala1"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-								<li><a href="https://www.youtube.com/channel/UCwpH7-rts8CwG3MPGxa0Acw"><i class="fa fa-youtube-play"></i></a></li>
+								<li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
 							</ul>
 						</div> <!-- ## End Footer ## -->
 
@@ -626,38 +617,98 @@
 				<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 				Right Section
 				~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-				<div id="contact" class="side-right col-xs-12 col-lg-offset-6 col-lg-6 vflow">
+				<div id="main-content" class="side-right col-xs-12 col-lg-offset-6 col-lg-6 vflow">
 
-					
+					<section id="the-company" class="about-us"> <!-- ## Start ABOUT US section ## -->
+						<div class="row">
+							<div class="col-xs-12">
+								<h3>The Rhythm of Change</h3>
+								<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.</p>
+							</div>
+						</div>
+					</section> <!-- ## End ABOUT US section ## -->
+
+					<section id="the-gallery" class="portfolio"> <!-- ## Start PORTFOLIO section ## -->
+						<div class="row">
+							<div class="col-xs-12">
+								<h3>What's inside</h3>
+								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+								<div class="st-gallery row" itemscope itemtype="http://schema.org/ImageGallery"><!-- %% Start GALLERY %% -->
+									<figure class="col-xs-12 col-sm-6" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+										<a class="ps-link" href="images/local/stomp-1.jpg" itemprop="contentUrl" data-size="1920x1280">
+											<img class="ofit gpu-hack lazyload" data-src="images/local/stomp-1.jpg" itemprop="thumbnail" alt="Best of both worlds" />
+											<p class="pszoom"></p>
+										</a>
+										<figcaption itemprop="caption description">Best of both worlds</figcaption>
+									</figure>
+									<figure class="col-xs-12 col-sm-6" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+										<a class="ps-link" href="images/local/stomp-2.jpg" itemprop="contentUrl" data-size="1920x1264">
+											<img class="ofit gpu-hack lazyload" data-src="images/local/stomp-2.jpg" itemprop="thumbnail" alt="Once in a blue moon" />
+											<p class="pszoom"></p>
+										</a>
+										<figcaption itemprop="caption description">Once in a blue moon</figcaption>
+									</figure>
+									<figure class="col-xs-12 col-sm-6" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+										<a class="ps-link" href="images/local/stomp-3.jpg" itemprop="contentUrl" data-size="1920x1280">
+											<img class="ofit gpu-hack lazyload" data-src="images/local/stomp-3.jpg" itemprop="thumbnail" alt="Piece of cake" />
+											<p class="pszoom"></p>
+										</a>
+										<figcaption itemprop="caption description">Piece of cake</figcaption>
+									</figure>
+									<figure class="col-xs-12 col-sm-6" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+										<a class="ps-link" href="images/local/stomp-4.jpg" itemprop="contentUrl" data-size="1920x1282">
+											<img class="ofit gpu-hack lazyload" data-src="images/local/stomp-4.jpg" itemprop="thumbnail" alt="Whole nine yards" />
+											<p class="pszoom"></p>
+										</a>
+										<figcaption itemprop="caption description">Whole nine yards</figcaption>
+									</figure>
+								</div><!-- %% End GALLERY %% -->
+
+							</div>
+						</div>
+					</section> <!-- ## End PORTFOLIO section ## -->
+
 					<section id="talk-back" class="contact-us"> <!-- ## Start CONTACT US Section ## -->
 						<div class="row">
 							<div class="col-xs-12">
 								<h3>Get In Touch</h3>
-								<p>We are Freelanceshala and we are here to serve!<br>How can we help you?</p>
-								
-								<form action="" id="aloo" method="POST"><!-- %% Start CONTACT FORM %% -->
+								<p>We are SvenCreations and we are here to serve!<br>How can we help you?</p>
+								<p class="contact-label sven-message"></p>
+								<form id="contact-form" class="row" action="php/contact.php" method="POST"><!-- %% Start CONTACT FORM %% -->
 									<div class="col-xs-12 col-sm-6">
 										<div class="form-group">
-											<input type="text" id="name" class="form form-control" placeholder="Your Name..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name...'" name="contName" required="">
+											<input type="text" id="contName" class="form form-control" placeholder="Your Name..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name...'" name="contName" required="">
 										</div>
 									</div>
 									<div class="col-xs-12 col-sm-6">
 										<div class="form-group">
-											<input type="email" id="emailid" class="form form-control" placeholder="Your Email..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email...'" name="contMail" required="">
+											<input type="email" id="contMail" class="form form-control" placeholder="Your Email..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email...'" name="contMail" required="">
 										</div>
 									</div>
 									<div class="col-xs-12">
 										<div class="form-group">
-											<textarea id="msgContent" class="form form-control" placeholder="Your Message..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Message...'" name="contMessage" required=""></textarea>
+											<textarea id="contMessage" class="form form-control" placeholder="Your Message..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Message...'" name="contMessage" required=""></textarea>
 										</div>
 									</div>
 									<div class="col-xs-12">
 										<div class="form-group">
-											<button type="submit" class="st-btn btn-bordered">Send Message</button>
+											<button type="submit" id="contSubmit" class="st-btn btn-bordered">Send Message</button>
 										</div>
 									</div>
 								</form><!-- %% End CONTACT FORM %% -->
 
+								<div class="addr-details row"><!-- %% Start ADDRESS DETAILS section %% -->
+									<div class="col-xs-12 col-sm-4">
+										<p><span>Address</span><br>370 Concho Dr<br>Gold Canyon,AZ, 85118</p>
+									</div>
+									<div class="col-xs-12 col-sm-4">
+										<p><span>Email</span><br><a href="mailto:svencreations@gmail.com?Subject=Stomp%20Inquiry">svencreations@gmail.com</a></p>
+									</div>
+									<div class="col-xs-12 col-sm-4">
+										<p><span>Phone</span><br><a href="tel:+12025550161">+1 (202) 555-0161</a></p>
+									</div>
+								</div><!-- %% End ADDRESS DETAILS section %% -->
 
 							</div>
 						</div>
@@ -665,7 +716,7 @@
 
 					<a id="close-info"><i class="fa fa-window-close" aria-hidden="true"></i></a>
 
-					<p class="copyright text-center">&copy; 2022 Freelanceshala</p>
+					<p class="copyright text-center">&copy; 2017 STOMP - THE INTRO</p>
 				</div>
 			</div>
 		</div>
@@ -677,6 +728,7 @@
 	<div class="splash-page abs-fs vflow bg-cover">
 		<div class="sven-scene halign-center">
 			<div class="centered center-center">
+				<p>Stomp is a typographic intro for your product. Just good rhythm and typography. In the basic version, it contains exactly 100 words.</p>
 				<p style="margin-bottom: 0"><a class="st-btn btn-fill play-button">Get Started</a></p>
 			</div>
 		</div>
@@ -693,7 +745,7 @@
 			</div>
 		</div>
 		<div class="sound-info text-center">
-			<p><img src="images/sound.png" alt="Enable Sound" width="32" height="32"/><br/>Tap / Click Anywhere To Preload Sound <br/> for an optimum experience</p>
+			<p><img src="images/sound.png" alt="Enable Sound" width="32" height="32"/><br/>Tap / Click anywhere to preload sound <br/> for an optimum experience</p>
 		</div>
 	</div>
 
@@ -713,12 +765,7 @@
 	<!-- =================================================================
 	Page Reveal Transition
 	================================================================== -->
-	<div class="revealer"><center><img src="images/logo.png" style="  
-	width: 25%;
-		position: absolute;
-		top: 50%;
-		left: 50%;
-		transform: translate(-50%, -50%);"></center></div>
+	<div class="revealer"></div>
 
 <!-- =================================================================
 Subscribe Modal
@@ -734,7 +781,7 @@ Subscribe Modal
 						<p class="sub-desc">Gain exclusive access into our release on August 6th 2017 by signing up with our newsletter. Join us on the day of release.</p>
 						<p class="subscribe-label sven-message"></p>
 
-						<form id="subscription" class="row" action="https://svencreations.com/stomp/php/subscribe.php" method="POST"><!-- %% Start SUBSCRIPTION FORM %% -->
+						<form id="subscription" class="row" action="php/subscribe.php" method="POST"><!-- %% Start SUBSCRIPTION FORM %% -->
 							<div class="col-xs-12">
 								<div class="form-group">
 									<input type="email" id="userEmail" class="form form-control" placeholder="Your Email..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email...'" name="email" required="">
@@ -773,17 +820,13 @@ Compiled JS plugins
 <script src="js/combined/stomp-motion.min.js"></script>
 <script src="js/backgrounds/bits.min.js"></script>
 <script src="js/main.min.js"></script>
-<script src="js/timer.js"></script>
-<script src="https://www.gstatic.com/firebasejs/4.3.0/firebase.js"></script>
-<script src="js/firebase.js"></script>
-
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//google-analytics.com/analytics.js','ga');
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-162012271-2', 'auto');
+ga('create', 'UA-101945674-1', 'auto');
 ga('send', 'pageview');
 </script>
 
