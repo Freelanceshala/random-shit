@@ -654,6 +654,7 @@
 									<div class="col-xs-12">
 										<div class="form-group">
 											<button type="submit" id="submit" class="st-btn btn-bordered">Send Message</button>
+											<p id="done"></p>
 										</div>
 									</div>
 								</form><!-- %% End CONTACT FORM %% -->
@@ -779,6 +780,7 @@ Compiled JS plugins
 	import {submitForm} from './js/firebase.js'
 	$("#submit").click(function(){
 		submitForm(event);
+		$("#done").text("Done!")
 	})
 
 </script>
